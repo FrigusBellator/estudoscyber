@@ -1,0 +1,8 @@
+1. A História (Contexto Imersivo do Cenário)
+Título do Incidente: Operação Limpeza - O Servidor Esquecido.
+Duração: 10 minutos.
+Briefing: "Na última sexta-feira, um analista terceirizado de TI foi desligado por suspeita de má conduta. 
+Durante a auditoria de rotina, a equipe de Governança identificou tráfego anômalo vindo de uma máquina virtual de testes esquecida na rede, que não passou pelo processo de desativação. 
+Acreditamos que o ex-funcionário deixou dados exfiltrados ou uma backdoor nesse servidor. 
+Conseguimos interceptar credenciais de baixo privilégio que ainda estão ativas. 
+A missão de vocês é acessar esse servidor remotamente, encontrar a vulnerabilidade deixada, quebrar as ofuscações básicas e recuperar a flag que comprova o vazamento de dados."
